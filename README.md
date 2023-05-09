@@ -15,7 +15,7 @@ Now the settings button becomes available, either you are ready to go, you can j
 
 ![promo 2](https://github.com/duruburak/Multiple-Watermarker/assets/100048974/005b9e8d-da5b-4df2-a418-bd3576958c40)
 
-❗ Watermarker app doesn't overwrite your original file, instead it creates a new image file with the same title and a text "_wmarked.<<extension>>" following. ❗
+❗ Watermarker app doesn't overwrite your original file, instead it creates a new image file with the same title and a text "_wmarked.'extension'>" following. ❗
 
 Here're some examples of watermarked images that made with Watermarker app:
 
