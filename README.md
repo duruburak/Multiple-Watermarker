@@ -1,20 +1,8 @@
 # Multiple-Watermarker
 **Watermark all of your images at once proportionally respecting their size**
 
-⚠️ <font size="20" color="red">**The app weren't be able to tested fully, so expect minor or major bugs.**</font> ⚠️  
-
-
+⚠️ **The app weren't be able to tested fully, so expect minor or major bugs.** ⚠️  
 📍 Feedbacks & Pull requests are appreciated. 📍   
-   
-      
-      
-
-
-
-
-
-
-
 
 Watermarker app takes all of your images and watermarks them at once, while doing that it also accounts several parameters like if you want a text to display together with the watermark, aspect ratio of the image, preview of the image etc.
 
