@@ -1,0 +1,5 @@
+Pillow==9.5.0
+tkinter==8.6
+customtkinter==5.1.2
+darkdetect==0.7.1
+typing_extensions==4.5.0
